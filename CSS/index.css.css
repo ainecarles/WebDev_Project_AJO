@@ -1,5 +1,5 @@
 body{
-    background-color: #2e2d2d;
+    background-color: black
 }
 
 h1 { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; 
@@ -80,22 +80,13 @@ ul {
     float:left;
     text-align: center;
     background-color: #000;
-    color: orangered;
+    color: #e65df5;
   }
   
   .topnav a:hover {
     background-color: #2e2d2d; /* Add a hover color */
   }
 
-a:link{
-    color: white;
-    text-decoration: none;
-}
-
-a:visited{
-    color: white;
-    text-decoration: none;
-}
 .image1{
     display: inline-block;
     text-align: left;
@@ -109,4 +100,10 @@ a:visited{
 .image3{
     display: inline-block;
     text-align: right;
+}
+
+#caption
+{
+    color:white;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; 
 }
