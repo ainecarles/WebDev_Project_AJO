@@ -48,13 +48,6 @@ ul {
   font-size: 24px; 
 }
 
-.topnav a.split{
-  float:left;
-  text-align: center;
-  background-color: #c64ec6;
-  color: #e65df5;
-}
-
 .topnav a:hover {
   background-color: #2e2d2d; /* Add a hover color */
 }
@@ -76,6 +69,6 @@ summary
   font-variant: normal; 
   font-weight: 400; 
   line-height: 30px; 
-  color: #e65df5;
+  color: #c64ec6;
 }
   
