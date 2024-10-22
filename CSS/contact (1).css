@@ -62,7 +62,7 @@ ul {
     float:left;
     text-align: center;
     background-color: #000;
-    color: #e65df5;
+    color:#e65df5;
   }
   
   .topnav a:hover {
@@ -70,12 +70,12 @@ ul {
   }
 
 a:link{
-    color: #e65df5;
+    color:#e65df5;
     text-decoration: none;
 }
 
 a:visited{
-    color: #e65df5;
+    color:#e65df5;
     text-decoration: none;
 }
 
