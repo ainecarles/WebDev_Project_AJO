@@ -20,6 +20,15 @@ h1 {
   border-left:auto;
   border-right:auto;
 }
+  a:link{
+    color: #e65df5;
+    text-decoration: none;
+}
+
+a:visited{
+    color: #e65df5;
+    text-decoration: none;
+}
   img {
     display: block;
     width: 600px;
